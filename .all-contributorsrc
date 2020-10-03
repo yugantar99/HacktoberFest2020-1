@@ -5,6 +5,17 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+
+   {
+        "login": "Ritu1698",
+        "name": "Rituparna Biswas",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/55761323?v=4",
+        "profile": "https://github.com/Ritu1698",
+        "contributions": [
+          "doc",
+          "code"
+        ]
+      },
     {
       "login": "navneetsn1809",
       "name": "navneetsn1809",
