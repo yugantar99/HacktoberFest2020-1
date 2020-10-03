@@ -31,3 +31,5 @@ Doing these will give a general idea on how to approach prolog coding problems.
 <li>To delete two middle elements from an even-numbered list L into a list L1.</li>
 <li>To implement unfold (L, L1) that reverses the elements of (an odd numbered) list L, from 1 to middle-1 elements and middle+1 to last element and store the result in L1.</li>
 </ol>
+
+###Enjoy!!!!
