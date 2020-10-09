@@ -1,6 +1,6 @@
 # HacktoberFest2020
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-132-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-144-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 #### Contribute to hacktoberfest 2020
 
@@ -225,6 +225,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/akumar0709"><img src="https://avatars3.githubusercontent.com/u/67645056?v=4" width="100px;" alt=""/><br /><sub><b>akumar0709</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=akumar0709" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/akshaykrad"><img src="https://avatars0.githubusercontent.com/u/58693817?v=4" width="100px;" alt=""/><br /><sub><b>akshaykrad</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=akshaykrad" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/dishantvyas15"><img src="https://avatars2.githubusercontent.com/u/54072449?v=4" width="100px;" alt=""/><br /><sub><b>Dishant Vyas</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=dishantvyas15" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/bighnesh0404"><img src="https://avatars0.githubusercontent.com/u/42376993?v=4" width="100px;" alt=""/><br /><sub><b>Bighnesh</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=bighnesh0404" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/kavita121"><img src="https://avatars0.githubusercontent.com/u/38893206?v=4" width="100px;" alt=""/><br /><sub><b>kavita121</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=kavita121" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Akanksha7-art"><img src="https://avatars2.githubusercontent.com/u/66264266?v=4" width="100px;" alt=""/><br /><sub><b>Akanksha Rai</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Akanksha7-art" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/eeshita19"><img src="https://avatars3.githubusercontent.com/u/43987674?v=4" width="100px;" alt=""/><br /><sub><b>Eeshita</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=eeshita19" title="Code">💻</a></td>
+    <td align="center"><a href="http://engineeranchal.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/37269403?v=4" width="100px;" alt=""/><br /><sub><b>Anchal Gupta</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=anchal-gupta" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BRZ-OS"><img src="https://avatars1.githubusercontent.com/u/72369442?v=4" width="100px;" alt=""/><br /><sub><b>BRZ-OS</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=BRZ-OS" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/saubhagya-gupta"><img src="https://avatars3.githubusercontent.com/u/72502642?v=4" width="100px;" alt=""/><br /><sub><b>Saubhagya Gupta</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=saubhagya-gupta" title="Code">💻</a></td>
+    <td align="center"><a href="https://sriaman.github.io"><img src="https://avatars3.githubusercontent.com/u/30969315?v=4" width="100px;" alt=""/><br /><sub><b>Aman Srivastav</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=sriaman" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/AmanDesai10"><img src="https://avatars1.githubusercontent.com/u/55056475?v=4" width="100px;" alt=""/><br /><sub><b>Aman Desai</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=AmanDesai10" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/satyamsri"><img src="https://avatars0.githubusercontent.com/u/64866684?v=4" width="100px;" alt=""/><br /><sub><b>Satyam Shrivastav</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=satyamsri" title="Code">💻</a></td>
+    <td align="center"><a href="https://shreyrai99.github.io/portfolio/"><img src="https://avatars0.githubusercontent.com/u/51885421?v=4" width="100px;" alt=""/><br /><sub><b>shreyrai99</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=shreyrai99" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Prasad-Chathuranga"><img src="https://avatars0.githubusercontent.com/u/46666566?v=4" width="100px;" alt=""/><br /><sub><b>Prasad Chathuranga</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Prasad-Chathuranga" title="Code">💻</a></td>
   </tr>
 </table>
 
