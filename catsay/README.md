@@ -1,0 +1,1 @@
+# A parody of cowsay writtien in Rust
