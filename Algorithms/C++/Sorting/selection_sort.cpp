@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 void swapping(int &a, int &b) {         //swap the content of a and b
    int temp;
    temp = a;
@@ -36,4 +37,5 @@ int main() {
    selectionSort(arr, n);
    cout << "Array after Sorting: ";
    display(arr, n);
+   return 0;
 }
