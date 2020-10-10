@@ -1498,6 +1498,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "John-Santa",
+      "name": "John Santa",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57927810?v=4",
+      "profile": "https://github.com/John-Santa",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
