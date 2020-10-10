@@ -1,6 +1,6 @@
 # HacktoberFest2020
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-159-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-160-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 #### Contribute to hacktoberfest 2020
 
@@ -260,6 +260,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/nxious"><img src="https://avatars3.githubusercontent.com/u/69046288?v=4" width="100px;" alt=""/><br /><sub><b>Rahul</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=nxious" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PyroCandy"><img src="https://avatars3.githubusercontent.com/u/71510505?v=4" width="100px;" alt=""/><br /><sub><b>PyroCandy</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=PyroCandy" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/daniele-mc"><img src="https://avatars3.githubusercontent.com/u/44905383?v=4" width="100px;" alt=""/><br /><sub><b>Daniele Carvalho</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=daniele-mc" title="Code">💻</a></td>
+    <td align="center"><a href="http://itsvishal.codes"><img src="https://avatars3.githubusercontent.com/u/54502266?v=4" width="100px;" alt=""/><br /><sub><b>Vishal Tiwari</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Vishu1694" title="Code">💻</a></td>
   </tr>
 </table>
 
