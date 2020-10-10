@@ -1,6 +1,6 @@
 # HacktoberFest2020
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-169-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-170-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 #### Contribute to hacktoberfest 2020
 
@@ -274,6 +274,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http:\\www.theeasyconcepts.com"><img src="https://avatars1.githubusercontent.com/u/9281457?v=4" width="100px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=deepakuniyaliit" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ap9891"><img src="https://avatars2.githubusercontent.com/u/58732033?v=4" width="100px;" alt=""/><br /><sub><b>ap9891</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=ap9891" title="Code">💻</a></td>
   </tr>
 </table>
 
