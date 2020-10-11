@@ -23,3 +23,6 @@ def pypart2(n):
       
         # ending line after each row 
         print("\r") 
+      
+n=int(input("Enter the height of the pyramid: "))
+pypart2(n)
