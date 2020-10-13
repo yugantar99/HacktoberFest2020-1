@@ -1,6 +1,6 @@
 # HacktoberFest2020
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-202-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-203-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 #### Contribute to hacktoberfest 2020
 
@@ -315,6 +315,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/rcs10"><img src="https://avatars2.githubusercontent.com/u/43871890?v=4" width="100px;" alt=""/><br /><sub><b>Dhanuesh R C</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=rcs10" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Mica56"><img src="https://avatars3.githubusercontent.com/u/64721005?v=4" width="100px;" alt=""/><br /><sub><b>Mica56</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Mica56" title="Code">💻</a></td>
     <td align="center"><a href="https://zubair-droid.github.io/portfolio/"><img src="https://avatars2.githubusercontent.com/u/59087484?v=4" width="100px;" alt=""/><br /><sub><b>Syed Zubair(zubi-droid)</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Zubair-droid" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/haridinesh00"><img src="https://avatars2.githubusercontent.com/u/54408489?v=4" width="100px;" alt=""/><br /><sub><b>Hari D</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=haridinesh00" title="Code">💻</a></td>
   </tr>
 </table>
 
